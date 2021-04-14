@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **ofurum/ofurum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I'm Chiagoziem ofurum you can call me chigo for short, i am a fullstack software developer. I love building things that work on the web. 
 
@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
