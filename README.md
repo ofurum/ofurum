@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Chiagoziem ofurum you can call me (chigo) for short, i am a fullstack software developer. I love building things that work on the web. 
+## I'm Chiagoziem ofurum you can call me (chigo) for short, i am a fullstack software developer. I build things that work on the web. 
 
 Here are some ideas to get you started:
 
