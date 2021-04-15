@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 🧰 Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="50" height="50"/> 
 
 
