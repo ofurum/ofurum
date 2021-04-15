@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 ---
 
 🧰 Toolbox
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50" />
