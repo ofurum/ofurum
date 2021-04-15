@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
 
 ## I'm Chiagoziem ofurum you can call me {chigo} for short, i am a Javascript fullstack software developer. I build things that work on the web. 
 
