@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" />
 
-## I'm Chiagoziem Ofurum, { chigo } for short, i am a JavaScript FullStack software developer. I build things that work on the web. 
+## I'm Chiagoziem Ofurum, { chigo } for short, I am a JavaScript FullStack software developer. I build things that work on the web. 
 
 Here are some ideas to get you started:
 
