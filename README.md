@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about HTML5, CSS3, JavaScript, NOSQL, React.js, Nodejs, Expressjs, Graphql ....basically full stack development
 - 📫 How to reach me: LinkedIn: Ofurum chiagoziem, Gmail: chiagoziemofurum19@gmail.com ![Twitter Follow](https://img.shields.io/twitter/follow/chigorofurum?style=social)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I LOVE WATCHING ANIME!
+- ⚡ Fun fact: I LOVE WATCHING ANIME! and games too
 
 ---
 
